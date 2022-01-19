@@ -6,6 +6,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ."
   },
+  "engines": {
+    "node": ">=16.6.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
